@@ -1,5 +1,5 @@
 import React from 'react';
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/office-pic.png";
 import "./about.css";
 import {RiAwardFill} from "react-icons/ri"
 import {FiUsers} from "react-icons/fi";
