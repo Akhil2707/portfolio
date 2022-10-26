@@ -29,6 +29,7 @@ user-select: none;
 @media screen and (max-width:1024px){
   .container.testimonials__container{
     width: 60%; 
+    height: auto;
   }
 
     }
@@ -36,8 +37,13 @@ user-select: none;
     
     @media screen and (max-width:600px){
         .container.testimonials__container{
-            width: var(--container-width-sm)
+            width: var(--container-width-sm); 
+            
         }
+        #testimonials{
+            margin-top: 440%;
+        }
+   
         .client__review{
             width: var(--container-width-sm);
         }

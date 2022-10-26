@@ -19,7 +19,7 @@ const Portfolio = () => {
   <img src={IMG1} alt="" />
 </div>
 <h3>This is a portfolio item title</h3>
-<a href="http://github.com" className='btn'>Github</a>
+<a href="http://github.com" className='btn' target='_blank' rel="noreferrer">Github</a>
 
         </article>
         <article className='portfolio__item'>
@@ -27,7 +27,7 @@ const Portfolio = () => {
   <img src={IMG2} alt="" />
 </div>
 <h3>This is a portfolio item title</h3>
-<a href="http://github.com" className='btn'>Github</a>
+<a href="http://github.com" className='btn' target='_blank' rel="noreferrer">Github</a>
 
         </article>
         <article className='portfolio__item'>
@@ -35,7 +35,7 @@ const Portfolio = () => {
   <img src={IMG3} alt="" />
 </div>
 <h3>This is a portfolio item title</h3>
-<a href="http://github.com" className='btn'>Github</a>
+<a href="http://github.com" className='btn' target='_blank' rel="noreferrer">Github</a>
 
         </article>
         <article className='portfolio__item'>
@@ -43,7 +43,7 @@ const Portfolio = () => {
   <img src={IMG4} alt="" />
 </div>
 <h3>This is a portfolio item title</h3>
-<a href="http://github.com" className='btn'>Github</a>
+<a href="http://github.com" className='btn' target='_blank' rel="noreferrer">Github</a>
 
         </article>
         <article className='portfolio__item'>
@@ -51,7 +51,7 @@ const Portfolio = () => {
   <img src={IMG5} alt="" />
 </div>
 <h3>This is a portfolio item title</h3>
-<a href="http://github.com" className='btn'>Github</a>
+<a href="http://github.com" className='btn' target='_blank' rel="noreferrer">Github</a>
 
         </article>
         <article className='portfolio__item'>
@@ -59,7 +59,7 @@ const Portfolio = () => {
   <img src={IMG6} alt="" />
 </div>
 <h3>This is a portfolio item title</h3>
-<a href="http://github.com" className='btn'>Github</a>
+<a href="http://github.com" className='btn' target='_blank' rel="noreferrer">Github</a>
 
         </article>
       </div>
